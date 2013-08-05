@@ -1,14 +1,16 @@
 # holler
 
-A very brief introduction to clojure and overtone.
+A very brief introduction to [clojure](http://clojure.org) and [overtone](http://overtone.github.io).
 
 ## Usage
 
-Best used with emacs-live.
+Best used with [emacs-live](https://github.com/overtone/emacs-live).
 
 Open up src/holler/core.clj, then in emacs:
 
+```
 M-x nrepl-jack-in
+```
 
 Evaluate the forms one by one, following the comments.
 
